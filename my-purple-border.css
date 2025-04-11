@@ -1,0 +1,5 @@
+.is-style-purple-border img{
+    border: 6px solid purple;
+    border-radius: 15px;
+    box-shadow: 10px 5px 5px #e090fc;
+};
